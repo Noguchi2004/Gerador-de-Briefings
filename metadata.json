@@ -1,6 +1,0 @@
-{
-  "name": "Roteirista Institucional",
-  "description": "Gerador de cronograma de marketing e briefings operacionais multi-empresa com guardrails editoriais, roteiros de Reels e validação técnica.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
